@@ -270,6 +270,7 @@ public:
 int main()
 {
     cGameManger c(40, 20);
-    c.Run();
+    c.Run(); Draw()
     return 0;
+    delete
 }
